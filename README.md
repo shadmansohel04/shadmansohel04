@@ -22,7 +22,7 @@
 - 🎓 Pursuing a **Bachelor of Computer Engineering** at Toronto Metropolitan University (Class of 2027)
 - 💼 Previously interned at **Google** (Applied AI), **Ontario Power Generation**, and **RaiseIt**.
 - 🚀 Currently building **FireWatch-AI**, an edge-computing vision detection system on Raspberry Pi.
-- 📹 Documenting my CS journey and LeetCode grinds on TikTok.
+- 📹 Documenting my CS journey and LeetCode grinds on TikTok and YouTube.
 
 ---
 
